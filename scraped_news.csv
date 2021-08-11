@@ -1,90 +1,91 @@
 ,date,title,url
-0,"Aug 6, 2021","A clean cut: the new tool ""Blade"" cuts off Spectre attacks from crypto code",/en/news-and-events/news-archive/articles/2021/vassena-blade
-1,"Jul 30, 2021",No added cybersecurity through double VPN services,/en/news-and-events/news-archive/articles/2021/double-vpn
-2,"Jul 22, 2021",Staying in sync,/en/news-and-events/news-archive/articles/2021/clock-synchronization
-3,"Jul 21, 2021",cispa-roadshow,/en/news-and-events/news-archive/articles/2021/cispa-roadshow
-4,"Jul 15, 2021",Thorsten Holz becomes CISPA faculty member,/en/news-and-events/news-archive/articles/2021/faculty-holz
-5,"Jul 6, 2021",Post-quantum cryptography: How login procedures remain secure,/en/news-and-events/news-archive/articles/2021/post-quantum-cryptography
-6,"Jun 30, 2021",Digital CISPA Summer School in August 2021,/en/news-and-events/news-archive/articles/2021/summer-school-2021
-7,"Jun 25, 2021",Does Bluetooth need more cybersecurity?,/en/news-and-events/news-archive/articles/2021/bluetooth
-8,"Jun 22, 2021",CISPA startup DeepSign among the four best security startups in Germany,/en/news-and-events/news-archive/articles/2021/deepsign
-9,"Jun 18, 2021",One year Corona Warn App - a retrospective,/en/news-and-events/news-archive/articles/2021/corona-warn-app
-10,"Jun 10, 2021","All-in-one interactive textbook, construction kit, and toolbox",/en/news-and-events/news-archive/articles/2021/spectre/the-debugging-book
-11,"Jun 2, 2021",Who ya gonna call?,/en/news-and-events/news-archive/articles/2021/spectre
-12,"May 28, 2021",It's all an act - why cookie banners should be abolished,/en/news-and-events/news-archive/articles/2021/stop-the-consent-theater
-13,"May 17, 2021",Eight new top scientists to start at CISPA,/en/news-and-events/news-archive/articles/2021/05-10-21-new-facultys
-14,"May 11, 2021",From herding dog to sacrificial lamb,/en/news-and-events/news-archive/articles/2021/05-11-21-solarwinds
-15,"May 7, 2021",Vaccination card postings carry dangers,/en/news-and-events/news-archive/articles/2021/vaccination-posting
-16,"Apr 30, 2021",Bachelor program Cybersecurity now also completely in English,/en/news-and-events/news-archive/articles/2021/bachelor-eng
-17,"Apr 28, 2021",Growing pains: how to guarantee safety in systems with many components  ,/en/news-and-events/news-archive/articles/2021/safety-in-distributed-systems
-18,"Apr 16, 2021",Dr. Michael Schilling wants to open up perspectives in cybersecurity for psychologists,/en/news-and-events/news-archive/articles/2021/cysec-4-psych
-19,"Apr 14, 2021",Busy Beaver Awards go to Bernd Finkbeiner and Michael Schwarz,/en/news-and-events/news-archive/articles/2021/busy-beaver-award
-20,"Apr 7, 2021","CISPA commits to the ""Charta der Vielfalt""",/en/news-and-events/news-archive/articles/2021/charta-der-vielfalt
-21,"Apr 1, 2021",CISPA Cysec Lab has launched the Easter Challenge,/en/news-and-events/news-archive/articles/2021/Oster-Challenge
-22,"Apr 1, 2021",Hidden in a tree:  How malware cleverly evades the watchful eye of scanners,/en/news-and-events/news-archive/articles/2021/HideNoSeek
-23,"Mar 23, 2021",Student lab familiarizes girls with cybersecurity on Girls' Day,/en/news-and-events/news-archive/articles/2021/girls%27day-cysec-lab
-24,"Mar 22, 2021",Sascha Fahl does pioneering work in Lower Saxony,/en/news-and-events/news-archive/articles/2021/cispa-satellit
-25,"Mar 19, 2021",Professor Dr. Andreas Zeller receives a Most Influential Paper Award for the sixth time,/en/news-and-events/news-archive/articles/2021/zeller-most-influential-paper-award
-26,"Mar 17, 2021",How Third-Party services often clash with website security mechanisms,/en/news-and-events/news-archive/articles/2021/steffens-paper-ndss
-27,"Mar 8, 2021",CISPA supports public health departments in implementing contact tracing software SORMAS,/en/news-and-events/news-archive/articles/2021/sormas
-28,"Mar 4, 2021",CISPA spin-off ELEXIR wins start-up competition Saarland Accelerator,/en/news-and-events/news-archive/articles/2021/elexir-accelerator
-29,"Mar 3, 2021",CISPA Faculty Dr. Michael Schwarz Honored with Award of Excellence,/en/news-and-events/news-archive/articles/2021/Schwarz-Austria
-30,"Mar 1, 2021",CISPA Faculty Andreas Zeller talks about opportunities for postdoctoral researchers in Germany,/en/news-and-events/news-archive/articles/2021/zeller-postdoc-germany
-31,"Feb 19, 2021",What CISPA’s Sven Bugiel says about two-factor authentication and password managers,/en/news-and-events/news-archive/articles/2021/bugiel-radio-interview
-32,"Feb 15, 2021","CISPA-supported start-up Foldio publishes adventure game ""Ein Fuchs im Netz""",/en/news-and-events/news-archive/articles/2021/Foldio%20Release
-33,"Feb 5, 2021",Franco-German cybersecurity workshop a great success,/en/news-and-events/news-archive/articles/2021/d-frz-workshop
-34,"Feb 2, 2021",CISPA Faculty Dr. Katharina Krombholz on the Whatsapp Debate,/en/news-and-events/news-archive/articles/2021/krombholz-wa
-35,"Jan 6, 2021",CISPA world leader in Computer Security ,/en/news-and-events/news-archive/articles/2020/csrankings
-36,"Nov 10, 2020",PLATYPUS: New vulnerabilities discovered in Intel processors discovered by team including CISPA Faculty Michael Schwarz,/en/news-and-events/news-archive/articles/2020/platypus
-37,"Oct 29, 2020",Cas Cremers at Falling Walls 2020,/en/news-and-events/news-archive/articles/2020/falling-walls-2020
-38,"Oct 20, 2020",CISPA collaborates with Leibniz Universität Hannover and Niedersachsen,/en/news-and-events/news-archive/articles/2020/cispa-x-niedersachsen-2020
-39,"Oct 6, 2020",CISPA Innovation Campus to be located in St. Ingbert,/en/news-and-events/news-archive/articles/2020/cispa-innovation-campus-st-ingbert
-40,"Jul 9, 2020",Virtual cohorts for medical research,/en/news-and-events/news-archive/articles/2020/pro-gene-gen
-41,"Jun 23, 2020",Professor Dr. Cas Cremers about his work on Corona Warn App and the role of CISPA in this project,/en/news-and-events/news-archive/articles/2020/cremers-about-the-coronawarnapp
-42,"Jun 15, 2020",Corona-Warn-App: Thank you for your work,/en/news-and-events/news-archive/articles/2020/corona-warn-app-thank-you-for-your-work
-43,"May 25, 2020",Rayna Dimitrova becomes CISPA Faculty,/en/news-and-events/news-archive/articles/2020/rayna-dimitrova-becomes-cispa-faculty
-44,"May 11, 2020","Schwarz, Staicu and Hanzlik - Three new faculty set to start at CISPA",/en/news-and-events/news-archive/articles/2020/three-new-faculty-set-to-start-at-cispa
-45,"Apr 26, 2020",CISPA and Helmholtz welcome the Federal government's change of course regarding coronavirus app,/en/news-and-events/news-archive/articles/2020/cispa-and-helmholtz-welcome-the-federal-governments-change-of-course-regarding-coronavirus-app
-46,"Apr 20, 2020",Joint Statement on Contact Tracing,/en/news-and-events/news-archive/articles/2020/joint-statement-on-contact-tracing
-47,"Apr 20, 2020",Contact Tracing App for the SARS-CoV-2 pandemic,/en/news-and-events/news-archive/articles/2020/contact-tracing-app-for-the-sars-cov-2-pandemic
-48,"Apr 3, 2020",Hidden functions make mobile phone apps vulnerable to hackers,/en/news-and-events/news-archive/articles/2020/hidden-functions-make-mobile-phone-apps-vulnerable-to-hackers
-49,"Mar 19, 2020",Andreas Zeller and Bernd Finkbeiner awarded the state prize for university teaching,/en/news-and-events/news-archive/articles/2020/andreas-zeller-and-bernd-finkbeiner-awarded-the-state-prize-for-university-teaching
-50,"Mar 17, 2020",Important questions and answers on CISPA during the Corona Pandemic,/en/news-and-events/news-archive/articles/2020/important-questions-and-answers-on-working-on-cispa-during-the-corona-pandemic
-51,"Mar 9, 2020",Dániel Marx to become Faculty at CISPA,/en/news-and-events/news-archive/articles/2020/daniel-marx-to-become-faculty-at-cispa
-52,"Mar 5, 2020",Security teams now backed with more than 3 million euros through CISPA,/en/news-and-events/news-archive/articles/2020/security-teams-now-backed-with-more-than-3-million-euros-through-cispa
-53,"Jan 20, 2020",CISPA and LORIA open new French-German Center for Cybersecurity,/en/news-and-events/news-archive/articles/2020/cispa-and-loria-open-new-french-german-center-for-cybersecurity
-54,"Jan 16, 2020",Yang Zhang to become Faculty at CISPA Helmholtz Center for Information Security,/en/news-and-events/news-archive/articles/2020/yang-zhang-to-become-faculty
-55,"Oct 29, 2019",Pellegrino and Joux to become Faculty at CISPA Helmholtz Center for Information Security,/en/news-and-events/news-archive/articles/2019/pellegrino-and-joux-become-faculty
-56,"Oct 29, 2019",CISPA now hiring new faculty,/en/news-and-events/news-archive/articles/2019/faculty-hiring
-57,"Aug 29, 2019",New Cooperation with Korean Partners in the Field of Cyber Security,/en/news-and-events/news-archive/articles/2019/cooperation-with-kaist
-58,"Aug 28, 2019",IACR Test-of-Time Award for Antoine Joux,/en/news-and-events/news-archive/articles/2019/iacr-test-of-time-award-antoine-joux
-59,"Jun 5, 2019",Meeting of the Supervisory Board,/en/news-and-events/news-archive/articles/2019/meeting-supervisory-board
-60,"Apr 30, 2019",A new cooperation with top research institutes in China,/en/news-and-events/news-archive/articles/2019/new-cooperation-with-top-research-institutes-in-china
-61,"Apr 8, 2019",CISPA Incubator Advisory Board Meeting,/en/news-and-events/news-archive/articles/2019/cispa-advisory-board-meeting
-62,"Apr 1, 2019",Security Convention at CISPA,/en/news-and-events/news-archive/articles/2019/security-convention-at-cispa
-63,"Feb 28, 2019",Distinguished Paper Award at NDSS,/en/news-and-events/news-archive/articles/2019/distinguished-paper-award-ndss
-64,"Feb 14, 2019",CISPA Researcher receives SRL Graduate Fellowship,/en/news-and-events/news-archive/articles/2019/cispa-researcher-receives-srl-graduate-fellowship
-65,"Feb 5, 2019",Roadmap of Cybersecurity Research Presented in Brussels,/en/news-and-events/news-archive/articles/2019/roadmap-cybersecurity-research-brussels
-66,"Feb 5, 2019",CISPA now hiring new faculty,/en/news-and-events/news-archive/articles/2019/fm-karliczek-visit-cispa
-67,"Dec 14, 2018",Article on staatlichen Umgang mit IT-Sicherheitslücken,/en/news-and-events/news-archive/articles/2018/article-staatlicher-umgang-sicherheitsluecken
-68,"Nov 27, 2018",CISPA and DZNE founding the Helmholtz Medical Security and Privacy Research Center,/en/news-and-events/news-archive/articles/2018/cispa-dzne-found-helmholtz-medical-security-and-privacy-research-center
-69,"Nov 22, 2018",Michael Backes is named IEEE Fellow,/en/news-and-events/news-archive/articles/2018/michael-backes-named-ieee-fellow
-70,"Nov 20, 2018",Jilles Vreeken receives IEEE ICDM 2018 Awards,/en/news-and-events/news-archive/articles/2018/vreeken-ieee-icdm-award
-71,"Nov 9, 2018",Cooperation Agreement between CISPA and Saarland University,/en/news-and-events/news-archive/articles/2018/cooperation-agreement-between-cispa-and-saarland-university
-72,"Oct 26, 2018",German-French PhD Workshop on „Big Secure Data“,/en/news-and-events/news-archive/articles/2018/german-french-phd-atelier
-73,"Oct 11, 2018",CISPA and Symantec at it-sa 2018,/en/news-and-events/news-archive/articles/2018/cispa-symantec-itsa
-74,"Oct 11, 2018",Visit of the Dutch Royal Couple,/en/news-and-events/news-archive/articles/2018/dutch-royal-couple-visit
-75,"Oct 2, 2018",Michael Backes receives honorary doctorate,/en/news-and-events/news-archive/articles/2018/michaels-ehrendoktor
-76,"Sep 12, 2018",Helmholtz Center for Information Security (CISPA),/en/news-and-events/news-archive/articles/2018/cispa-helmholtz-center-official-approval
-77,"Sep 10, 2018",Bitcoin: How users betray the security secrets of their virtual purse,/en/news-and-events/news-archive/articles/2018/btc-keyleakage
-78,"Aug 14, 2018",Saarbrucken computer scientists automate attacks against the second largest cryptocurrency,/en/news-and-events/news-archive/articles/2018/teether
-79,"Jun 8, 2018",CEBIT 2018: Artificial intelligence warns of photos that show more than desired,/en/news-and-events/news-archive/articles/2018/cebit-2018-artificial-intelligence-warns-of-photos-that-show-more-than-desired
-80,"Jun 8, 2018",CEBIT 2018: Intelligent mass testing for better IT security,/en/news-and-events/news-archive/articles/2018/cebit-2018-intelligent-mass-testing-for-greater-it-security
-81,"Jun 8, 2018",CEBIT 2018: IT security experts from Saarbrücken uncover how apps really behave,/en/news-and-events/news-archive/articles/2018/cebit-2018-it-security-experts-from-saarbruecken-uncover-how-apps-really-behave
-82,"Jun 8, 2018",Cebit 2018: New course of study combines IT security with company foundation,/en/news-and-events/news-archive/articles/2018/cebit-2018-new-course-entrepreneurial-cybersecurity
-83,"Jun 8, 2018",CEBIT 2018: Researchers expose perpetrators behind mass Internet attacks,/en/news-and-events/news-archive/articles/2018/cebit-2018-researchers-expose-perpetrators-behind-mass-internet-attacks
-84,"Jun 8, 2018",CEBIT 2018: Who controls the Internet? And what does a global security update for e-mails actually cost?,/en/news-and-events/news-archive/articles/2018/cebit-2018-who-controls-the-internet-and-what-does-a-global-security-update-for-e-mails-actually-cost
-85,"Apr 27, 2018",Prestigious prize for research on software technology goes to Germany for the first time,/en/news-and-events/news-archive/articles/2018/andreas-zeller-acm-award
-86,"Dec 13, 2017",We · are · founded!,/en/news-and-events/news-archive/articles/2017/cispa-helmholtz-center-i-g-is-founded
-87,"Oct 24, 2017",The location for the future Helmholtz Center is set!,/en/news-and-events/news-archive/articles/2017/standort-zukuenftiges-helmholtz-steht-festen
-88,"Apr 13, 2017",Largest research centre for IT security comes to Saarbrücken,/en/news-and-events/news-archive/articles/2017/groesstes-forschungszentrum-fuer-it-sicherheit-kommt-nach-saarbruecken
+0,"Aug 11, 2021",USENIX 21,/en/news-and-events/news-archive/articles/2021/USENIX-21
+1,"Aug 6, 2021","A clean cut: the new tool ""Blade"" cuts off Spectre attacks from crypto code",/en/news-and-events/news-archive/articles/2021/vassena-blade
+2,"Jul 30, 2021",No added cybersecurity through double VPN services,/en/news-and-events/news-archive/articles/2021/double-vpn
+3,"Jul 22, 2021",Staying in sync,/en/news-and-events/news-archive/articles/2021/clock-synchronization
+4,"Jul 21, 2021",cispa-roadshow,/en/news-and-events/news-archive/articles/2021/cispa-roadshow
+5,"Jul 15, 2021",Thorsten Holz becomes CISPA faculty member,/en/news-and-events/news-archive/articles/2021/faculty-holz
+6,"Jul 6, 2021",Post-quantum cryptography: How login procedures remain secure,/en/news-and-events/news-archive/articles/2021/post-quantum-cryptography
+7,"Jun 30, 2021",Digital CISPA Summer School in August 2021,/en/news-and-events/news-archive/articles/2021/summer-school-2021
+8,"Jun 25, 2021",Does Bluetooth need more cybersecurity?,/en/news-and-events/news-archive/articles/2021/bluetooth
+9,"Jun 22, 2021",CISPA startup DeepSign among the four best security startups in Germany,/en/news-and-events/news-archive/articles/2021/deepsign
+10,"Jun 18, 2021",One year Corona Warn App - a retrospective,/en/news-and-events/news-archive/articles/2021/corona-warn-app
+11,"Jun 10, 2021","All-in-one interactive textbook, construction kit, and toolbox",/en/news-and-events/news-archive/articles/2021/spectre/the-debugging-book
+12,"Jun 2, 2021",Who ya gonna call?,/en/news-and-events/news-archive/articles/2021/spectre
+13,"May 28, 2021",It's all an act - why cookie banners should be abolished,/en/news-and-events/news-archive/articles/2021/stop-the-consent-theater
+14,"May 17, 2021",Eight new top scientists to start at CISPA,/en/news-and-events/news-archive/articles/2021/05-10-21-new-facultys
+15,"May 11, 2021",From herding dog to sacrificial lamb,/en/news-and-events/news-archive/articles/2021/05-11-21-solarwinds
+16,"May 7, 2021",Vaccination card postings carry dangers,/en/news-and-events/news-archive/articles/2021/vaccination-posting
+17,"Apr 30, 2021",Bachelor program Cybersecurity now also completely in English,/en/news-and-events/news-archive/articles/2021/bachelor-eng
+18,"Apr 28, 2021",Growing pains: how to guarantee safety in systems with many components  ,/en/news-and-events/news-archive/articles/2021/safety-in-distributed-systems
+19,"Apr 16, 2021",Dr. Michael Schilling wants to open up perspectives in cybersecurity for psychologists,/en/news-and-events/news-archive/articles/2021/cysec-4-psych
+20,"Apr 14, 2021",Busy Beaver Awards go to Bernd Finkbeiner and Michael Schwarz,/en/news-and-events/news-archive/articles/2021/busy-beaver-award
+21,"Apr 7, 2021","CISPA commits to the ""Charta der Vielfalt""",/en/news-and-events/news-archive/articles/2021/charta-der-vielfalt
+22,"Apr 1, 2021",CISPA Cysec Lab has launched the Easter Challenge,/en/news-and-events/news-archive/articles/2021/Oster-Challenge
+23,"Apr 1, 2021",Hidden in a tree:  How malware cleverly evades the watchful eye of scanners,/en/news-and-events/news-archive/articles/2021/HideNoSeek
+24,"Mar 23, 2021",Student lab familiarizes girls with cybersecurity on Girls' Day,/en/news-and-events/news-archive/articles/2021/girls%27day-cysec-lab
+25,"Mar 22, 2021",Sascha Fahl does pioneering work in Lower Saxony,/en/news-and-events/news-archive/articles/2021/cispa-satellit
+26,"Mar 19, 2021",Professor Dr. Andreas Zeller receives a Most Influential Paper Award for the sixth time,/en/news-and-events/news-archive/articles/2021/zeller-most-influential-paper-award
+27,"Mar 17, 2021",How Third-Party services often clash with website security mechanisms,/en/news-and-events/news-archive/articles/2021/steffens-paper-ndss
+28,"Mar 8, 2021",CISPA supports public health departments in implementing contact tracing software SORMAS,/en/news-and-events/news-archive/articles/2021/sormas
+29,"Mar 4, 2021",CISPA spin-off ELEXIR wins start-up competition Saarland Accelerator,/en/news-and-events/news-archive/articles/2021/elexir-accelerator
+30,"Mar 3, 2021",CISPA Faculty Dr. Michael Schwarz Honored with Award of Excellence,/en/news-and-events/news-archive/articles/2021/Schwarz-Austria
+31,"Mar 1, 2021",CISPA Faculty Andreas Zeller talks about opportunities for postdoctoral researchers in Germany,/en/news-and-events/news-archive/articles/2021/zeller-postdoc-germany
+32,"Feb 19, 2021",What CISPA’s Sven Bugiel says about two-factor authentication and password managers,/en/news-and-events/news-archive/articles/2021/bugiel-radio-interview
+33,"Feb 15, 2021","CISPA-supported start-up Foldio publishes adventure game ""Ein Fuchs im Netz""",/en/news-and-events/news-archive/articles/2021/Foldio%20Release
+34,"Feb 5, 2021",Franco-German cybersecurity workshop a great success,/en/news-and-events/news-archive/articles/2021/d-frz-workshop
+35,"Feb 2, 2021",CISPA Faculty Dr. Katharina Krombholz on the Whatsapp Debate,/en/news-and-events/news-archive/articles/2021/krombholz-wa
+36,"Jan 6, 2021",CISPA world leader in Computer Security ,/en/news-and-events/news-archive/articles/2020/csrankings
+37,"Nov 10, 2020",PLATYPUS: New vulnerabilities discovered in Intel processors discovered by team including CISPA Faculty Michael Schwarz,/en/news-and-events/news-archive/articles/2020/platypus
+38,"Oct 29, 2020",Cas Cremers at Falling Walls 2020,/en/news-and-events/news-archive/articles/2020/falling-walls-2020
+39,"Oct 20, 2020",CISPA collaborates with Leibniz Universität Hannover and Niedersachsen,/en/news-and-events/news-archive/articles/2020/cispa-x-niedersachsen-2020
+40,"Oct 6, 2020",CISPA Innovation Campus to be located in St. Ingbert,/en/news-and-events/news-archive/articles/2020/cispa-innovation-campus-st-ingbert
+41,"Jul 9, 2020",Virtual cohorts for medical research,/en/news-and-events/news-archive/articles/2020/pro-gene-gen
+42,"Jun 23, 2020",Professor Dr. Cas Cremers about his work on Corona Warn App and the role of CISPA in this project,/en/news-and-events/news-archive/articles/2020/cremers-about-the-coronawarnapp
+43,"Jun 15, 2020",Corona-Warn-App: Thank you for your work,/en/news-and-events/news-archive/articles/2020/corona-warn-app-thank-you-for-your-work
+44,"May 25, 2020",Rayna Dimitrova becomes CISPA Faculty,/en/news-and-events/news-archive/articles/2020/rayna-dimitrova-becomes-cispa-faculty
+45,"May 11, 2020","Schwarz, Staicu and Hanzlik - Three new faculty set to start at CISPA",/en/news-and-events/news-archive/articles/2020/three-new-faculty-set-to-start-at-cispa
+46,"Apr 26, 2020",CISPA and Helmholtz welcome the Federal government's change of course regarding coronavirus app,/en/news-and-events/news-archive/articles/2020/cispa-and-helmholtz-welcome-the-federal-governments-change-of-course-regarding-coronavirus-app
+47,"Apr 20, 2020",Joint Statement on Contact Tracing,/en/news-and-events/news-archive/articles/2020/joint-statement-on-contact-tracing
+48,"Apr 20, 2020",Contact Tracing App for the SARS-CoV-2 pandemic,/en/news-and-events/news-archive/articles/2020/contact-tracing-app-for-the-sars-cov-2-pandemic
+49,"Apr 3, 2020",Hidden functions make mobile phone apps vulnerable to hackers,/en/news-and-events/news-archive/articles/2020/hidden-functions-make-mobile-phone-apps-vulnerable-to-hackers
+50,"Mar 19, 2020",Andreas Zeller and Bernd Finkbeiner awarded the state prize for university teaching,/en/news-and-events/news-archive/articles/2020/andreas-zeller-and-bernd-finkbeiner-awarded-the-state-prize-for-university-teaching
+51,"Mar 17, 2020",Important questions and answers on CISPA during the Corona Pandemic,/en/news-and-events/news-archive/articles/2020/important-questions-and-answers-on-working-on-cispa-during-the-corona-pandemic
+52,"Mar 9, 2020",Dániel Marx to become Faculty at CISPA,/en/news-and-events/news-archive/articles/2020/daniel-marx-to-become-faculty-at-cispa
+53,"Mar 5, 2020",Security teams now backed with more than 3 million euros through CISPA,/en/news-and-events/news-archive/articles/2020/security-teams-now-backed-with-more-than-3-million-euros-through-cispa
+54,"Jan 20, 2020",CISPA and LORIA open new French-German Center for Cybersecurity,/en/news-and-events/news-archive/articles/2020/cispa-and-loria-open-new-french-german-center-for-cybersecurity
+55,"Jan 16, 2020",Yang Zhang to become Faculty at CISPA Helmholtz Center for Information Security,/en/news-and-events/news-archive/articles/2020/yang-zhang-to-become-faculty
+56,"Oct 29, 2019",Pellegrino and Joux to become Faculty at CISPA Helmholtz Center for Information Security,/en/news-and-events/news-archive/articles/2019/pellegrino-and-joux-become-faculty
+57,"Oct 29, 2019",CISPA now hiring new faculty,/en/news-and-events/news-archive/articles/2019/faculty-hiring
+58,"Aug 29, 2019",New Cooperation with Korean Partners in the Field of Cyber Security,/en/news-and-events/news-archive/articles/2019/cooperation-with-kaist
+59,"Aug 28, 2019",IACR Test-of-Time Award for Antoine Joux,/en/news-and-events/news-archive/articles/2019/iacr-test-of-time-award-antoine-joux
+60,"Jun 5, 2019",Meeting of the Supervisory Board,/en/news-and-events/news-archive/articles/2019/meeting-supervisory-board
+61,"Apr 30, 2019",A new cooperation with top research institutes in China,/en/news-and-events/news-archive/articles/2019/new-cooperation-with-top-research-institutes-in-china
+62,"Apr 8, 2019",CISPA Incubator Advisory Board Meeting,/en/news-and-events/news-archive/articles/2019/cispa-advisory-board-meeting
+63,"Apr 1, 2019",Security Convention at CISPA,/en/news-and-events/news-archive/articles/2019/security-convention-at-cispa
+64,"Feb 28, 2019",Distinguished Paper Award at NDSS,/en/news-and-events/news-archive/articles/2019/distinguished-paper-award-ndss
+65,"Feb 14, 2019",CISPA Researcher receives SRL Graduate Fellowship,/en/news-and-events/news-archive/articles/2019/cispa-researcher-receives-srl-graduate-fellowship
+66,"Feb 5, 2019",Roadmap of Cybersecurity Research Presented in Brussels,/en/news-and-events/news-archive/articles/2019/roadmap-cybersecurity-research-brussels
+67,"Feb 5, 2019",CISPA now hiring new faculty,/en/news-and-events/news-archive/articles/2019/fm-karliczek-visit-cispa
+68,"Dec 14, 2018",Article on staatlichen Umgang mit IT-Sicherheitslücken,/en/news-and-events/news-archive/articles/2018/article-staatlicher-umgang-sicherheitsluecken
+69,"Nov 27, 2018",CISPA and DZNE founding the Helmholtz Medical Security and Privacy Research Center,/en/news-and-events/news-archive/articles/2018/cispa-dzne-found-helmholtz-medical-security-and-privacy-research-center
+70,"Nov 22, 2018",Michael Backes is named IEEE Fellow,/en/news-and-events/news-archive/articles/2018/michael-backes-named-ieee-fellow
+71,"Nov 20, 2018",Jilles Vreeken receives IEEE ICDM 2018 Awards,/en/news-and-events/news-archive/articles/2018/vreeken-ieee-icdm-award
+72,"Nov 9, 2018",Cooperation Agreement between CISPA and Saarland University,/en/news-and-events/news-archive/articles/2018/cooperation-agreement-between-cispa-and-saarland-university
+73,"Oct 26, 2018",German-French PhD Workshop on „Big Secure Data“,/en/news-and-events/news-archive/articles/2018/german-french-phd-atelier
+74,"Oct 11, 2018",CISPA and Symantec at it-sa 2018,/en/news-and-events/news-archive/articles/2018/cispa-symantec-itsa
+75,"Oct 11, 2018",Visit of the Dutch Royal Couple,/en/news-and-events/news-archive/articles/2018/dutch-royal-couple-visit
+76,"Oct 2, 2018",Michael Backes receives honorary doctorate,/en/news-and-events/news-archive/articles/2018/michaels-ehrendoktor
+77,"Sep 12, 2018",Helmholtz Center for Information Security (CISPA),/en/news-and-events/news-archive/articles/2018/cispa-helmholtz-center-official-approval
+78,"Sep 10, 2018",Bitcoin: How users betray the security secrets of their virtual purse,/en/news-and-events/news-archive/articles/2018/btc-keyleakage
+79,"Aug 14, 2018",Saarbrucken computer scientists automate attacks against the second largest cryptocurrency,/en/news-and-events/news-archive/articles/2018/teether
+80,"Jun 8, 2018",CEBIT 2018: Artificial intelligence warns of photos that show more than desired,/en/news-and-events/news-archive/articles/2018/cebit-2018-artificial-intelligence-warns-of-photos-that-show-more-than-desired
+81,"Jun 8, 2018",CEBIT 2018: Intelligent mass testing for better IT security,/en/news-and-events/news-archive/articles/2018/cebit-2018-intelligent-mass-testing-for-greater-it-security
+82,"Jun 8, 2018",CEBIT 2018: IT security experts from Saarbrücken uncover how apps really behave,/en/news-and-events/news-archive/articles/2018/cebit-2018-it-security-experts-from-saarbruecken-uncover-how-apps-really-behave
+83,"Jun 8, 2018",Cebit 2018: New course of study combines IT security with company foundation,/en/news-and-events/news-archive/articles/2018/cebit-2018-new-course-entrepreneurial-cybersecurity
+84,"Jun 8, 2018",CEBIT 2018: Researchers expose perpetrators behind mass Internet attacks,/en/news-and-events/news-archive/articles/2018/cebit-2018-researchers-expose-perpetrators-behind-mass-internet-attacks
+85,"Jun 8, 2018",CEBIT 2018: Who controls the Internet? And what does a global security update for e-mails actually cost?,/en/news-and-events/news-archive/articles/2018/cebit-2018-who-controls-the-internet-and-what-does-a-global-security-update-for-e-mails-actually-cost
+86,"Apr 27, 2018",Prestigious prize for research on software technology goes to Germany for the first time,/en/news-and-events/news-archive/articles/2018/andreas-zeller-acm-award
+87,"Dec 13, 2017",We · are · founded!,/en/news-and-events/news-archive/articles/2017/cispa-helmholtz-center-i-g-is-founded
+88,"Oct 24, 2017",The location for the future Helmholtz Center is set!,/en/news-and-events/news-archive/articles/2017/standort-zukuenftiges-helmholtz-steht-festen
+89,"Apr 13, 2017",Largest research centre for IT security comes to Saarbrücken,/en/news-and-events/news-archive/articles/2017/groesstes-forschungszentrum-fuer-it-sicherheit-kommt-nach-saarbruecken

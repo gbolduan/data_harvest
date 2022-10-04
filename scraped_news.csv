@@ -1,91 +1,91 @@
 ,date,title,url
-0,"Sep 9, 2022",Are we on the same site?,/en/samesite
-1,"Sep 6, 2022",Security of open source software,/en/oss-security
-2,"Sep 2, 2022",Causality in Machine Learning with Osman Ali Mian ,/tldr-episode-12
-3,"Aug 31, 2022",Meta Research funds work of CISPA researcher Dr. Sebastian Stich,/en/algorithms
-4,"Aug 25, 2022",Qualcomm Fellowship for CISPA researcher Dingfan Chen,/en/qualcomm-fellowship
-5,"Aug 12, 2022",CISPA at USENIX 2022 – Friday,/en/news-and-events/news-archive/articles/2022/usenix22-friday
-6,"Aug 11, 2022",CISPA at USENIX 2022 – Thursday,/en/news-and-events/news-archive/articles/2022/usenix22-thursday
-7,"Aug 10, 2022",CISPA at USENIX 2022 – Wednesday,/en/news-and-events/news-archive/articles/2022/usenix22-wednesday
-8,"Aug 9, 2022",Dramatic vulnerability discovered in Intel processors,/en/aepic
-9,"Aug 8, 2022",ERC Advanced Grant for Prof. Bernd Finkbeiner,/en/erc-grant-hyper
-10,"Aug 2, 2022",Usable Security with Dr. Katharina Krombholz,/en/tldr-episode-11
-11,"Aug 1, 2022",10 million euros of funding for the development of the virtual center of excellence ELSA ,/en/elsa
-12,"Jul 27, 2022","""I chose science – because of the freedom researchers enjoy”",/en/interview-thorsten-holz
-13,"Jul 18, 2022","""We finally want to dig up this treasure of data and make it usable without having to give up data privacy""",/en/nico-doettling
-14,"Jul 15, 2022",CISPA expert for trustworthy AI helps with analysis of patient data,/en/trustworthy-ai
-15,"Jul 11, 2022",Summer School 2022,/en/summer-school-2022
-16,"Jul 4, 2022",LOKI - Local Early Warning System for Control of Infection Outbreaks,/en/loki
-17,"Jul 4, 2022",How machines learn to forget,/en/machine-unlearning
-18,"Jul 1, 2022",Provable Security of Mix Networks with Dr. Julian Loss,/en/tldr-episode-10
-19,"Jun 22, 2022",Airbus and CISPA establish Digital Innovation Hub for Cybersecurity and Artificial Intelligence,/en/cispa-airbus
-20,"Jun 15, 2022",CISPA Supervisory Board welcomes Minister-President Anke Rehlinger as new member,/en/supervisory-board
-21,"Jun 13, 2022",Web3 Foundation funds work of CISPA faculty Dr. Julian Loss,/en/dmna
-22,"Jun 9, 2022",Dr. Ali Abbasi to become new CISPA faculty member,/en/ali-abbasi-22
-23,"Jun 3, 2022",Xiao Zhang to become new CISPA faculty member,/en/xiao-zhang-22
-24,"Jun 2, 2022",Browser Extension Security with Dr. Aurore Fass,/en/tldr-browser-extensions
-25,"May 30, 2022",Dr. Lea Schönherr to become new CISPA faculty member,/en/schoenherr22
-26,"May 26, 2022",Krikamol Muandet to become new CISPA faculty member,/en/krikamol22
-27,"May 25, 2022","""Encrypted-Computing-Compass"" project celebrates first milestone",/en/encrypted-computing
-28,"May 24, 2022",Dr. Wouter Lueks becomes new CISPA faculty member,/en/lueks22
-29,"May 23, 2022",Much interest in CISPA's open day,/open-door-2022
-30,"May 4, 2022",Companies often lack sufficient awareness of cybersecurity risks,/en/sme-security
-31,"May 3, 2022",New episode of TL;DR – Security of Web Applications with Dr. Giancarlo Pellegrino,/en/news-and-events/news-archive/articles/2022/podcast-pellegrino
-32,"Apr 29, 2022",IT Security Researchers Meet for the 4th Franco-German Cybersecurity Workshop,/en/cispa-loria-2022
-33,"Apr 29, 2022",CISPA inspires boys for the paralegal profession on Boys' Day,/en/boys-day
-34,"Apr 27, 2022",How attackers can hijack machine learning models,/en/hijacking-attack
-35,"Apr 20, 2022",A secure path for digital currency of central banks,/en/digital-currency
-36,"Apr 13, 2022",Busy Beaver Award for CISPA Faculty Dr. Yang Zhang,/en/busy-beaver
-37,"Apr 5, 2022",A new issue of TL;DR is out,/softwaresicherheit
-38,"Mar 22, 2022",CISPA and St. Ingbert establish joint settlement and development company,/en/settlement-and-development-company
-39,"Mar 22, 2022",CISPA PhD student Xinlei He receives coveted Norton Labs Graduate Fellowship,/en/fellowship
-40,"Mar 17, 2022",CISPA Venture Capital Fund Raises 50 Million Euros,/en/vcfund
-41,"Mar 17, 2022",ERC Consolidator Grant for CISPA Faculty Member Thorsten Holz,/en/erc-holz
-42,"Mar 15, 2022",How small the world is,/en/graphbased-machine-learning
-43,"Mar 14, 2022","""Finally putting into practice what you learned during your studies""",/en/capture-the-flag
-44,"Mar 10, 2022",Extension building for CISPA ,/en/foundation-stone
-45,"Mar 4, 2022",CISPA supports Science for Ukraine,/en/science-for-ukraine
-46,"Mar 3, 2022",How devices learn together from distributed data,/en/federated-machine-learning
-47,"Feb 28, 2022",A new issue of TL;DR is out,/en/podcast-deepfakes
-48,"Feb 10, 2022",Every chain is only as strong as its weakest link,/en/blockchain-security
-49,"Jan 31, 2022",Fancy a podcast? The 5th episode of TL;DR is here,/en/tldr-password-security
-50,"Jan 21, 2022",One for all and all for one,/en/distributed-systems
-51,"Jan 14, 2022",CISPA start-up QuantPi explains how machines think,/en/quantpi
-52,"Jan 10, 2022",ERC Starting Grant for CISPA Faculty Nico Döttling,/en/erc-grant-nico-doettling
-53,"Jan 7, 2022",Vaibhav Bajpai becomes Research Group Leader at CISPA's Hanover Satellite,/en/vaibhav-bajpai
-54,"Jan 6, 2022",New CISPA demonstrator protects against clickjacking attacks,/en/news-and-events/news-archive/articles/2021/dr.headerson
-55,"Jan 3, 2022",Episode 4 of CISPA Podcast TL;DR available now!,/en/news-and-events/news-archive/articles/2022/01.03.%20-%20Podcast%20Mridula
-56,"Dec 16, 2021","Further progress in the fight against Meltdown, Spectre, and Co.",/en/news-and-events/news-archive/articles/2021/scfirefox
-57,"Dec 16, 2021",CISPA start-up CodeShield develops log4jShell detection tool,/en/codeshield
-58,"Dec 15, 2021",CISPA Faculty Dr. Nico Döttling Leads First Cyber Agency Feasibility Study on Encrypted Computing,/en/cyberagentur
-59,"Dec 8, 2021",Tool Osiris automatically detects information leaks,/osiris
-60,"Dec 6, 2021",Call for greater objectivity - statement,/en/news-and-events/news-archive/articles/2021/statement
-61,"Dec 3, 2021",Strong presentations at Franco-German cybersecurity workshop,/cybersecurity-workshop
-62,"Dec 2, 2021",First five CISPA faculty have successfully completed tenure track,/tenured-2021
-63,"Dec 1, 2021",Episode 3 of CISPA podcast TL;DR is online!,/en/news-and-events/news-archive/articles/2021/d%C3%B6ttling
-64,"Nov 26, 2021",Moritz Wilhelm wins first place at the CAST Sponsorship Award for IT security,/en/news-and-events/news-archive/articles/2021/moritz-wilhelm
-65,"Nov 23, 2021","Too complex, too time-consuming, too expensive",/csp
-66,"Nov 11, 2021",A dangerous game with proximity and distance,/secure-positioning
-67,"Nov 8, 2021",Strategic research cooperation on cybersecurity officially opened in Hanover,/en/news-and-events/news-archive/articles/2021/cispa-hannover
-68,"Nov 5, 2021",Dr. Kevin Streit is the new COO of CISPA,/en/news-and-events/news-archive/articles/2021/change-of-coo
-69,"Nov 4, 2021","""The day when the work runs out will (hopefully) not come""",/en/news-and-events/news-archive/articles/2021/interview-kevin-streit
-70,"Nov 3, 2021",CISPA Podcast TL;DR issue #2,/en/news-and-events/news-archive/articles/2021/staicu
-71,"Oct 29, 2021",Using algorithms against cancer,/en/machine-learning
-72,"Oct 20, 2021",Who is stepping out of line here?,/en/news-and-events/news-archive/articles/2021/accountability
-73,"Oct 18, 2021",The automated scientist,/en/news-and-events/news-archive/articles/2021/Alhazen
-74,"Oct 8, 2021",CISPA researcher helps close security gap at cloud providers,/spectre-attack
-75,"Sep 30, 2021",The first CISPA podcast TL;DR is on the air,/cispa-podcast
-76,"Sep 24, 2021",Lola flies - safely and by itself,/en/news-and-events/news-archive/articles/2021/lola
-77,"Sep 22, 2021",Lured into the trap via a detour,/en/news-and-events/news-archive/articles/2021/bgpeek-a-boo
-78,"Sep 16, 2021","""The Luca app is immediately replaceable without any loss""",/en/news-and-events/news-archive/articles/2021/luca-app
-79,"Sep 10, 2021",How secure is convenient?,/en/news-and-events/news-archive/articles/2021/voice-assistant-authentication
-80,"Aug 27, 2021",It's all about who's asking,/en/news-and-events/news-archive/articles/2021/khodayari-jaw
-81,"Aug 20, 2021",The battle for the credibility of our data,/en/news-and-events/news-archive/articles/2021/fritz-deepfake
-82,"Aug 13, 2021","""Like a Band-Aid that doesn't stick""",/en/news-and-events/news-archive/articles/2021/stock-websecurity
-83,"Aug 11, 2021",CISPA researchers present 13 papers at USENIX '21,/en/news-and-events/news-archive/articles/2021/USENIX-21
-84,"Aug 6, 2021","A clean cut: the new tool ""Blade"" cuts off Spectre attacks from crypto code",/en/news-and-events/news-archive/articles/2021/vassena-blade
-85,"Jul 30, 2021",No added cybersecurity through double VPN services,/en/news-and-events/news-archive/articles/2021/double-vpn
-86,"Jul 22, 2021",Staying in sync,/en/news-and-events/news-archive/articles/2021/clock-synchronization
-87,"Jul 21, 2021",cispa-roadshow,/en/news-and-events/news-archive/articles/2021/cispa-roadshow
-88,"Jul 15, 2021",Thorsten Holz becomes CISPA faculty member,/en/news-and-events/news-archive/articles/2021/faculty-holz
-89,"Jul 6, 2021",Post-quantum cryptography: How login procedures remain secure,/en/news-and-events/news-archive/articles/2021/post-quantum-cryptography
+0,"Oct 4, 2022",Artificial Intelligence with Prof. Dr. Mario Fritz,/en/news-and-events/news-archive/articles/2022/podcast-fritz
+1,"Sep 9, 2022",Are we on the same site?,/en/samesite
+2,"Sep 6, 2022",Security of open source software,/en/oss-security
+3,"Sep 2, 2022",Causality in Machine Learning with Osman Ali Mian ,/tldr-episode-12
+4,"Aug 31, 2022",Meta Research funds work of CISPA researcher Dr. Sebastian Stich,/en/algorithms
+5,"Aug 25, 2022",Qualcomm Fellowship for CISPA researcher Dingfan Chen,/en/qualcomm-fellowship
+6,"Aug 12, 2022",CISPA at USENIX 2022 – Friday,/en/news-and-events/news-archive/articles/2022/usenix22-friday
+7,"Aug 11, 2022",CISPA at USENIX 2022 – Thursday,/en/news-and-events/news-archive/articles/2022/usenix22-thursday
+8,"Aug 10, 2022",CISPA at USENIX 2022 – Wednesday,/en/news-and-events/news-archive/articles/2022/usenix22-wednesday
+9,"Aug 9, 2022",Dramatic vulnerability discovered in Intel processors,/en/aepic
+10,"Aug 8, 2022",ERC Advanced Grant for Prof. Bernd Finkbeiner,/en/erc-grant-hyper
+11,"Aug 2, 2022",Usable Security with Dr. Katharina Krombholz,/en/tldr-episode-11
+12,"Aug 1, 2022",10 million euros of funding for the development of the virtual center of excellence ELSA ,/en/elsa
+13,"Jul 27, 2022","""I chose science – because of the freedom researchers enjoy”",/en/interview-thorsten-holz
+14,"Jul 18, 2022","""We finally want to dig up this treasure of data and make it usable without having to give up data privacy""",/en/nico-doettling
+15,"Jul 15, 2022",CISPA expert for trustworthy AI helps with analysis of patient data,/en/trustworthy-ai
+16,"Jul 11, 2022",Summer School 2022,/en/summer-school-2022
+17,"Jul 4, 2022",LOKI - Local Early Warning System for Control of Infection Outbreaks,/en/loki
+18,"Jul 4, 2022",How machines learn to forget,/en/machine-unlearning
+19,"Jul 1, 2022",Provable Security of Mix Networks with Dr. Julian Loss,/en/tldr-episode-10
+20,"Jun 22, 2022",Airbus and CISPA establish Digital Innovation Hub for Cybersecurity and Artificial Intelligence,/en/cispa-airbus
+21,"Jun 15, 2022",CISPA Supervisory Board welcomes Minister-President Anke Rehlinger as new member,/en/supervisory-board
+22,"Jun 13, 2022",Web3 Foundation funds work of CISPA faculty Dr. Julian Loss,/en/dmna
+23,"Jun 9, 2022",Dr. Ali Abbasi to become new CISPA faculty member,/en/ali-abbasi-22
+24,"Jun 3, 2022",Xiao Zhang to become new CISPA faculty member,/en/xiao-zhang-22
+25,"Jun 2, 2022",Browser Extension Security with Dr. Aurore Fass,/en/tldr-browser-extensions
+26,"May 30, 2022",Dr. Lea Schönherr to become new CISPA faculty member,/en/schoenherr22
+27,"May 26, 2022",Krikamol Muandet to become new CISPA faculty member,/en/krikamol22
+28,"May 25, 2022","""Encrypted-Computing-Compass"" project celebrates first milestone",/en/encrypted-computing
+29,"May 24, 2022",Dr. Wouter Lueks becomes new CISPA faculty member,/en/lueks22
+30,"May 23, 2022",Much interest in CISPA's open day,/open-door-2022
+31,"May 4, 2022",Companies often lack sufficient awareness of cybersecurity risks,/en/sme-security
+32,"May 3, 2022",New episode of TL;DR – Security of Web Applications with Dr. Giancarlo Pellegrino,/en/news-and-events/news-archive/articles/2022/podcast-pellegrino
+33,"Apr 29, 2022",IT Security Researchers Meet for the 4th Franco-German Cybersecurity Workshop,/en/cispa-loria-2022
+34,"Apr 29, 2022",CISPA inspires boys for the paralegal profession on Boys' Day,/en/boys-day
+35,"Apr 27, 2022",How attackers can hijack machine learning models,/en/hijacking-attack
+36,"Apr 20, 2022",A secure path for digital currency of central banks,/en/digital-currency
+37,"Apr 13, 2022",Busy Beaver Award for CISPA Faculty Dr. Yang Zhang,/en/busy-beaver
+38,"Apr 5, 2022",A new issue of TL;DR is out,/softwaresicherheit
+39,"Mar 22, 2022",CISPA and St. Ingbert establish joint settlement and development company,/en/settlement-and-development-company
+40,"Mar 22, 2022",CISPA PhD student Xinlei He receives coveted Norton Labs Graduate Fellowship,/en/fellowship
+41,"Mar 17, 2022",CISPA Venture Capital Fund Raises 50 Million Euros,/en/vcfund
+42,"Mar 17, 2022",ERC Consolidator Grant for CISPA Faculty Member Thorsten Holz,/en/erc-holz
+43,"Mar 15, 2022",How small the world is,/en/graphbased-machine-learning
+44,"Mar 14, 2022","""Finally putting into practice what you learned during your studies""",/en/capture-the-flag
+45,"Mar 10, 2022",Extension building for CISPA ,/en/foundation-stone
+46,"Mar 4, 2022",CISPA supports Science for Ukraine,/en/science-for-ukraine
+47,"Mar 3, 2022",How devices learn together from distributed data,/en/federated-machine-learning
+48,"Feb 28, 2022",A new issue of TL;DR is out,/en/podcast-deepfakes
+49,"Feb 10, 2022",Every chain is only as strong as its weakest link,/en/blockchain-security
+50,"Jan 31, 2022",Fancy a podcast? The 5th episode of TL;DR is here,/en/tldr-password-security
+51,"Jan 21, 2022",One for all and all for one,/en/distributed-systems
+52,"Jan 14, 2022",CISPA start-up QuantPi explains how machines think,/en/quantpi
+53,"Jan 10, 2022",ERC Starting Grant for CISPA Faculty Nico Döttling,/en/erc-grant-nico-doettling
+54,"Jan 7, 2022",Vaibhav Bajpai becomes Research Group Leader at CISPA's Hanover Satellite,/en/vaibhav-bajpai
+55,"Jan 6, 2022",New CISPA demonstrator protects against clickjacking attacks,/en/news-and-events/news-archive/articles/2021/dr.headerson
+56,"Jan 3, 2022",Episode 4 of CISPA Podcast TL;DR available now!,/en/news-and-events/news-archive/articles/2022/01.03.%20-%20Podcast%20Mridula
+57,"Dec 16, 2021","Further progress in the fight against Meltdown, Spectre, and Co.",/en/news-and-events/news-archive/articles/2021/scfirefox
+58,"Dec 16, 2021",CISPA start-up CodeShield develops log4jShell detection tool,/en/codeshield
+59,"Dec 15, 2021",CISPA Faculty Dr. Nico Döttling Leads First Cyber Agency Feasibility Study on Encrypted Computing,/en/cyberagentur
+60,"Dec 8, 2021",Tool Osiris automatically detects information leaks,/osiris
+61,"Dec 6, 2021",Call for greater objectivity - statement,/en/news-and-events/news-archive/articles/2021/statement
+62,"Dec 3, 2021",Strong presentations at Franco-German cybersecurity workshop,/cybersecurity-workshop
+63,"Dec 2, 2021",First five CISPA faculty have successfully completed tenure track,/tenured-2021
+64,"Dec 1, 2021",Episode 3 of CISPA podcast TL;DR is online!,/en/news-and-events/news-archive/articles/2021/d%C3%B6ttling
+65,"Nov 26, 2021",Moritz Wilhelm wins first place at the CAST Sponsorship Award for IT security,/en/news-and-events/news-archive/articles/2021/moritz-wilhelm
+66,"Nov 23, 2021","Too complex, too time-consuming, too expensive",/csp
+67,"Nov 11, 2021",A dangerous game with proximity and distance,/secure-positioning
+68,"Nov 8, 2021",Strategic research cooperation on cybersecurity officially opened in Hanover,/en/news-and-events/news-archive/articles/2021/cispa-hannover
+69,"Nov 5, 2021",Dr. Kevin Streit is the new COO of CISPA,/en/news-and-events/news-archive/articles/2021/change-of-coo
+70,"Nov 4, 2021","""The day when the work runs out will (hopefully) not come""",/en/news-and-events/news-archive/articles/2021/interview-kevin-streit
+71,"Nov 3, 2021",CISPA Podcast TL;DR issue #2,/en/news-and-events/news-archive/articles/2021/staicu
+72,"Oct 29, 2021",Using algorithms against cancer,/en/machine-learning
+73,"Oct 20, 2021",Who is stepping out of line here?,/en/news-and-events/news-archive/articles/2021/accountability
+74,"Oct 18, 2021",The automated scientist,/en/news-and-events/news-archive/articles/2021/Alhazen
+75,"Oct 8, 2021",CISPA researcher helps close security gap at cloud providers,/spectre-attack
+76,"Sep 30, 2021",The first CISPA podcast TL;DR is on the air,/cispa-podcast
+77,"Sep 24, 2021",Lola flies - safely and by itself,/en/news-and-events/news-archive/articles/2021/lola
+78,"Sep 22, 2021",Lured into the trap via a detour,/en/news-and-events/news-archive/articles/2021/bgpeek-a-boo
+79,"Sep 16, 2021","""The Luca app is immediately replaceable without any loss""",/en/news-and-events/news-archive/articles/2021/luca-app
+80,"Sep 10, 2021",How secure is convenient?,/en/news-and-events/news-archive/articles/2021/voice-assistant-authentication
+81,"Aug 27, 2021",It's all about who's asking,/en/news-and-events/news-archive/articles/2021/khodayari-jaw
+82,"Aug 20, 2021",The battle for the credibility of our data,/en/news-and-events/news-archive/articles/2021/fritz-deepfake
+83,"Aug 13, 2021","""Like a Band-Aid that doesn't stick""",/en/news-and-events/news-archive/articles/2021/stock-websecurity
+84,"Aug 11, 2021",CISPA researchers present 13 papers at USENIX '21,/en/news-and-events/news-archive/articles/2021/USENIX-21
+85,"Aug 6, 2021","A clean cut: the new tool ""Blade"" cuts off Spectre attacks from crypto code",/en/news-and-events/news-archive/articles/2021/vassena-blade
+86,"Jul 30, 2021",No added cybersecurity through double VPN services,/en/news-and-events/news-archive/articles/2021/double-vpn
+87,"Jul 22, 2021",Staying in sync,/en/news-and-events/news-archive/articles/2021/clock-synchronization
+88,"Jul 21, 2021",cispa-roadshow,/en/news-and-events/news-archive/articles/2021/cispa-roadshow
+89,"Jul 15, 2021",Thorsten Holz becomes CISPA faculty member,/en/news-and-events/news-archive/articles/2021/faculty-holz

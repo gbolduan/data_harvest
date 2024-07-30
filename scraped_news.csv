@@ -1,91 +1,91 @@
 ,date,title,url
-0,"Jul 24, 2024",Artificial intelligence for more democracy,/en/ladenburgerkolleg-2024
-1,"Jul 18, 2024",Episode 33 of CISPA TL;DR: Focus on IT Security Conferences with Dr. Katharina Krombholz and Dr. Ben Stock,/en/tldr-conferences
-2,"Jul 17, 2024",Joining forces for more testability,/en/testable
-3,"Jul 10, 2024","Launch of ""CISPA Display 2023"": CISPA publishes its first research-related yearbook",/en/cispa-display-2023
-4,"Jul 9, 2024",International cooperation at CISPA,/en/zine-cover-story
-5,"Jul 8, 2024",The winners of the first ELSA Industry Call have been announced,/en/winners-call
-6,"Jul 2, 2024",International cooperation: CISPA Zine No. 6 published,/en/zine-6
-7,"Jun 27, 2024",Login Notifications: An Important Security Factor from a User's Perspective,/en/golla-login-notifications
-8,"Jun 25, 2024",First CISPA apprentice successfully completes training,/en/ausbildungsabschluss-am-cispa
-9,"Jun 20, 2024",IT-security for the young: Open Day at the CISPA Cysec Lab,/en/open-lab-day-2024
-10,"Jun 10, 2024",“Protecting people’s digital lives”: An interview with Anna Ascheman,/en/ascheman
-11,"Jun 4, 2024",Cryptography workshop in Nancy within the framework of the virtual “French-German Center for Cybersecurity (FGCC)”,/en/fgcc-workshop2024-nancy
-12,"May 21, 2024",New results in AI research: Humans barely able to recognize AI-generated media,/en/holz-ai-generated-media
-13,"May 15, 2024",Episode 32: Privacy protection for large language models with Dr. Franziska Boenisch,/en/tldr-episode32-boenisch
-14,"May 13, 2024",CISPA researchers develop new security concept for Zoom groups,/en/cremers-zoomgroups
-15,"May 7, 2024",Role models and dreams of the future: exchange between schoolgirls and researchers on Girls' Day,/en/girlsday2024
-16,"May 3, 2024","Our new Faculty: Dr. Adam Dziedzic, expert in trustworthy machine learning",/en/our-new-faculty
-17,"Apr 25, 2024",Client-Side Scanning with Carolyn Guthoff and Divyanshu Bhardwaj,/en/tldr_new_episode_31
-18,"Apr 24, 2024",Students honor three CISPA researchers with Busy Beaver Award,/en/busy-beaver-awards
-19,"Apr 18, 2024",ELSA workshop in London on the interactions of generative AI and the creative arts,/en/workshop-ai-arts
-20,"Apr 15, 2024",Summer Schools 2024,/summer-school
-21,"Apr 5, 2024",Manual transcription (still) beats AI: A comparative study on transcription services,/en/studie_transkriptionsdienste
-22,"Apr 3, 2024",ELSA meeting in London yields important results on the control of AI systems,/en/elsa-london
-23,"Mar 26, 2024",Tools for the competition: A visit to the computer science junior camp,/en/juniorcamp_informatik
-24,"Mar 19, 2024",Loop DoS: New Denial-of-Service attack targets application-layer protocols,/en/loop-dos
-25,"Mar 17, 2024","""You meet top researchers and build up a network.""",/en/ellis-phd-program
-26,"Mar 14, 2024",Episode 30 of CISPA TL;DR: Server-Side-Scanning with Florian Hantke,/en/podcast-hantke
-27,"Mar 13, 2024",New Approach to Compare the Process of Two-Factor Authentication on Websites,/en/bugiel-2FA
-28,"Mar 12, 2024",Examining cybersecurity in the era of generative AI,/en/aigency
-29,"Mar 1, 2024",This article will change your life! – Clickbait PDFs are the latest phishing scam,/ClickbaitPDFs
-30,"Feb 16, 2024",Security vulnerabilities of browser extensions in the Chrome Web Store,/en/fass_chromewebstore
-31,"Feb 15, 2024",Episode 29 of CISPA TL;DR is online: Giada Stivala talks about Clickbait PDFs,/en/tldr-episode29-stivla
-32,"Feb 9, 2024",Bye Bye Copenhagen!,/en/ccs-day3
-33,"Feb 6, 2024",EU investment boosts QuantPi's mission for trustworthy AI technology with 2.5 million euros,/en/eic-quantpi
-34,"Feb 2, 2024",Day 2 in Copenhagen,/en/ccs-day2
-35,"Feb 1, 2024","Facts, figures, fun - a card game about our startup community",/en/startup-quartett
-36,"Jan 29, 2024",The example of Tor and VPN: cybersecurity between fact and folklore,/en/fassl-torovervpn
-37,"Jan 26, 2024",Hej København!,/en/ccs-day1
-38,"Jan 24, 2024",CISPA-Director Professor Michael Backes named ACM Fellow,/en/backes-acm-fellow
-39,"Jan 10, 2024",Episode 28: Research at the intersection of information security and privacy,/en/tldr-episode27-utz
-40,"Jan 8, 2024",CISPA-Faculty Dr. Michael Schwarz has successfully completed tenure track,/en/schwarz-tenured
-41,"Jan 3, 2024",How password managers need to improve,/en/passwordmanager
-42,"Jan 3, 2024",Successful year for ELSA network,/en/one-year-elsa
-43,"Dec 20, 2023",Episode 27: Satellite Security with Dr. Ali Abbasi,/en/tldr-episode27-satellitesecurity
-44,"Dec 15, 2023",Summer School Cryptography,/summer-school-crypto
-45,"Dec 15, 2023",Summer School Usable Security,/summer-school-usable
-46,"Dec 15, 2023",CISPA researchers test new method for uncertainty quantification in machine learning applications,/en/Zargarbashi_uncertaintyquantification
-47,"Dec 12, 2023",CISPA sets new standards: A record number of startups and new offers for the entrepreneurial community,/en/techtransfer2023
-48,"Dec 11, 2023",Our new Faculty: Machine Learning expert Dr. Franziska Boenisch,/en/newfaculty_franziskaboenisch
-49,"Dec 7, 2023",Episode 26 of CISPA TL;DR is online: Dañiel Gerhardt talks about AirTags,/en/tldr-episode-26-airtags
-50,"Dec 5, 2023",CISPA Corporate Communications awarded the Saarland State Prize for Design,/en/state-prize
-51,"Nov 15, 2023",ELSA publishes strategic research agenda,/en/elsa-sra
-52,"Nov 14, 2023",CISPA researchers discover new security vulnerability in AMD SEV technology,/en/cachewarp
-53,"Nov 10, 2023",AI image generators as drivers of unsafe images? CISPA researcher develops filter to tackle this,/en/yitingqu-unsafeimages
-54,"Nov 7, 2023","""All my life I've concerned myself with transformation"": Five questions for Dr. h. c. Thomas Sattelberger",/en/sattelberger
-55,"Nov 6, 2023",CISPA in Paris: Kick-off for cooperation with French research center Inria,/en/cispa-inria-workshop-paris2023
-56,"Oct 30, 2023",Dr. Eduard Martin Prize for Jana Hofmann,/en/eduard-martin-prize
-57,"Oct 23, 2023",It's the passing on that matters: Two Busy Beaver Awards for CISPA lecturers,/en/news-and-events/news-archive/articles/2023/10_23_busy_beaver_krombholz_zeller
-58,"Oct 19, 2023",CISPA researcher aims to improve automated analysis of protocols,/en/hash
-59,"Oct 18, 2023",„Deceptive Security“: CISPA launches its first scrollytelling on security software,/en/scrollytelling
-60,"Oct 13, 2023",Our new Faculty: JavaScript analysis expert Aurore Fass ,/en/newfaculty_aurorefass
-61,"Oct 12, 2023",First EIC grant for CISPA incubator startup,/en/eic-lubis
-62,"Oct 9, 2023",270 million euros a year: IHK study underlines CISPA's importance for regional economy,/en/ihk-study
-63,"Oct 6, 2023",CISPA researcher conducts a self-experiment: On the difficulties of performing authentication ceremonies,/en/fassl_authenticationceremonies
-64,"Sep 29, 2023",First year anniversary: ELSA gathers for first General Assembly Meeting,/en/elsaGAM2023
-65,"Sep 27, 2023",Understanding science: Conference marathon in California,/en/usenix-2023
-66,"Sep 22, 2023",Mobile communications security with Dr. Adrian Dabrowski,/podcast-mobile-communications-security
-67,"Sep 21, 2023",Focus on cybersecurity: Sustainable investments for a secure future,/en/interview-vc-fonds
-68,"Sep 20, 2023",Experiencing science: A review of the event „CISPA❤️IGB“,/en/CISPAlovesIGBreportage
-69,"Sep 18, 2023","Research, Change and Vision: 5,000 visitors attend ""CISPA❤️IGB""",/en/EventCISPAlovesIGB
-70,"Sep 15, 2023",CISPA Venture Capital Fonds is launched: First startups pitch to jury,/en/vcfonds-pitchday
-71,"Sep 8, 2023",CISPA researcher develops technique to safeguard against deepfakes ,/en/zhengli-unganable
-72,"Sep 5, 2023",Artificial neural networks can be more efficient: CISPA researcher Dr. Rebekka Burkholz receives ERC Starting Grant,/en/erc-burkholz
-73,"Sep 5, 2023",Modern cryptography for the networks of the future: CISPA researcher Julian Loss receives ERC Starting Grant,/en/erc-loss
-74,"Aug 30, 2023",Rational Intelligence Lab: CISPA faculty publishes research group manifesto,/en/RationalIntelligenceManifesto
-75,"Aug 29, 2023",How does cybersecurity relate to psychology? An Interview on CySec4Psych with Dr. Rudolf Siegel,/en/cysec4psych-interview
-76,"Aug 23, 2023",A new standard? CISPA researchers test utility of web archives for live analyses of web security,/en/hantkeinternetarchive
-77,"Aug 21, 2023","""CISPA❤️IGB"" on September 16, 2023: Event program now online",/en/news-and-events/news-archive/articles/2023/08_21_cispasanktingbert-programm
-78,"Aug 18, 2023",Onboarding at CISPA: How it works,/en/onboarding-at-cispa
-79,"Aug 16, 2023",Successful cooperation between CISPA researchers and IT company sequire technology,/en/cooperation-cispa-sequire
-80,"Aug 14, 2023","""CISPA❤️St. Ingbert“ beckons visitors to Alte Schmelz on September 16",/en/loves-st-ingbert
-81,"Aug 9, 2023",Mapping mobile communications security,/mobile-communications-security
-82,"Aug 6, 2023",E-mail security with Dr. Ben Stock,/en/tldrpodcast-stock
-83,"Aug 4, 2023",CISPA researchers present 30 papers at 32nd USENIX Security Symposium,/en/usenix23
-84,"Aug 1, 2023",Collide+Power: New Side-Channel Attack Affects All CPUs,/en/collideandpower
-85,"Jul 31, 2023",IT-Security Know-How for Everyone,/en/zine5_scienceoutreach
-86,"Jul 27, 2023","“Whenever there’s a paradigm shift, there are security issues”: Examining Satellite Security",/en/satellite-security
-87,"Jul 24, 2023",“You have to keep your ultimate goal in mind”: Interview with Professor Dr. Andreas Zeller,/en/zeller
-88,"Jul 21, 2023",CISPA researchers present eight papers at ICML,/en/ICML
-89,"Jul 17, 2023","""Without fun and dedication no success"": An Interview with CISPA Supervisory Board Member Dr. Siegfried Dais",/en/interview-dais
+0,"Jul 30, 2024",Critical security vulnerabilities in Voice over WiFi,/en/news-and-events/news-archive/articles/2024/wlan-calling
+1,"Jul 24, 2024",Artificial intelligence for more democracy,/en/ladenburgerkolleg-2024
+2,"Jul 18, 2024",Episode 33 of CISPA TL;DR: Focus on IT Security Conferences with Dr. Katharina Krombholz and Dr. Ben Stock,/en/tldr-conferences
+3,"Jul 17, 2024",Joining forces for more testability,/en/testable
+4,"Jul 10, 2024","Launch of ""CISPA Display 2023"": CISPA publishes its first research-related yearbook",/en/cispa-display-2023
+5,"Jul 9, 2024",International cooperation at CISPA,/en/zine-cover-story
+6,"Jul 8, 2024",The winners of the first ELSA Industry Call have been announced,/en/winners-call
+7,"Jul 2, 2024",International cooperation: CISPA Zine No. 6 published,/en/zine-6
+8,"Jun 27, 2024",Login Notifications: An Important Security Factor from a User's Perspective,/en/golla-login-notifications
+9,"Jun 25, 2024",First CISPA apprentice successfully completes training,/en/ausbildungsabschluss-am-cispa
+10,"Jun 20, 2024",IT-security for the young: Open Day at the CISPA Cysec Lab,/en/open-lab-day-2024
+11,"Jun 10, 2024",“Protecting people’s digital lives”: An interview with Anna Ascheman,/en/ascheman
+12,"Jun 4, 2024",Cryptography workshop in Nancy within the framework of the virtual “French-German Center for Cybersecurity (FGCC)”,/en/fgcc-workshop2024-nancy
+13,"May 21, 2024",New results in AI research: Humans barely able to recognize AI-generated media,/en/holz-ai-generated-media
+14,"May 15, 2024",Episode 32: Privacy protection for large language models with Dr. Franziska Boenisch,/en/tldr-episode32-boenisch
+15,"May 13, 2024",CISPA researchers develop new security concept for Zoom groups,/en/cremers-zoomgroups
+16,"May 7, 2024",Role models and dreams of the future: exchange between schoolgirls and researchers on Girls' Day,/en/girlsday2024
+17,"May 3, 2024","Our new Faculty: Dr. Adam Dziedzic, expert in trustworthy machine learning",/en/our-new-faculty
+18,"Apr 25, 2024",Client-Side Scanning with Carolyn Guthoff and Divyanshu Bhardwaj,/en/tldr_new_episode_31
+19,"Apr 24, 2024",Students honor three CISPA researchers with Busy Beaver Award,/en/busy-beaver-awards
+20,"Apr 18, 2024",ELSA workshop in London on the interactions of generative AI and the creative arts,/en/workshop-ai-arts
+21,"Apr 15, 2024",Summer Schools 2024,/summer-school
+22,"Apr 5, 2024",Manual transcription (still) beats AI: A comparative study on transcription services,/en/studie_transkriptionsdienste
+23,"Apr 3, 2024",ELSA meeting in London yields important results on the control of AI systems,/en/elsa-london
+24,"Mar 26, 2024",Tools for the competition: A visit to the computer science junior camp,/en/juniorcamp_informatik
+25,"Mar 19, 2024",Loop DoS: New Denial-of-Service attack targets application-layer protocols,/en/loop-dos
+26,"Mar 17, 2024","""You meet top researchers and build up a network.""",/en/ellis-phd-program
+27,"Mar 14, 2024",Episode 30 of CISPA TL;DR: Server-Side-Scanning with Florian Hantke,/en/podcast-hantke
+28,"Mar 13, 2024",New Approach to Compare the Process of Two-Factor Authentication on Websites,/en/bugiel-2FA
+29,"Mar 12, 2024",Examining cybersecurity in the era of generative AI,/en/aigency
+30,"Mar 1, 2024",This article will change your life! – Clickbait PDFs are the latest phishing scam,/ClickbaitPDFs
+31,"Feb 16, 2024",Security vulnerabilities of browser extensions in the Chrome Web Store,/en/fass_chromewebstore
+32,"Feb 15, 2024",Episode 29 of CISPA TL;DR is online: Giada Stivala talks about Clickbait PDFs,/en/tldr-episode29-stivla
+33,"Feb 9, 2024",Bye Bye Copenhagen!,/en/ccs-day3
+34,"Feb 6, 2024",EU investment boosts QuantPi's mission for trustworthy AI technology with 2.5 million euros,/en/eic-quantpi
+35,"Feb 2, 2024",Day 2 in Copenhagen,/en/ccs-day2
+36,"Feb 1, 2024","Facts, figures, fun - a card game about our startup community",/en/startup-quartett
+37,"Jan 29, 2024",The example of Tor and VPN: cybersecurity between fact and folklore,/en/fassl-torovervpn
+38,"Jan 26, 2024",Hej København!,/en/ccs-day1
+39,"Jan 24, 2024",CISPA-Director Professor Michael Backes named ACM Fellow,/en/backes-acm-fellow
+40,"Jan 10, 2024",Episode 28: Research at the intersection of information security and privacy,/en/tldr-episode27-utz
+41,"Jan 8, 2024",CISPA-Faculty Dr. Michael Schwarz has successfully completed tenure track,/en/schwarz-tenured
+42,"Jan 3, 2024",How password managers need to improve,/en/passwordmanager
+43,"Jan 3, 2024",Successful year for ELSA network,/en/one-year-elsa
+44,"Dec 20, 2023",Episode 27: Satellite Security with Dr. Ali Abbasi,/en/tldr-episode27-satellitesecurity
+45,"Dec 15, 2023",Summer School Cryptography,/summer-school-crypto
+46,"Dec 15, 2023",Summer School Usable Security,/summer-school-usable
+47,"Dec 15, 2023",CISPA researchers test new method for uncertainty quantification in machine learning applications,/en/Zargarbashi_uncertaintyquantification
+48,"Dec 12, 2023",CISPA sets new standards: A record number of startups and new offers for the entrepreneurial community,/en/techtransfer2023
+49,"Dec 11, 2023",Our new Faculty: Machine Learning expert Dr. Franziska Boenisch,/en/newfaculty_franziskaboenisch
+50,"Dec 7, 2023",Episode 26 of CISPA TL;DR is online: Dañiel Gerhardt talks about AirTags,/en/tldr-episode-26-airtags
+51,"Dec 5, 2023",CISPA Corporate Communications awarded the Saarland State Prize for Design,/en/state-prize
+52,"Nov 15, 2023",ELSA publishes strategic research agenda,/en/elsa-sra
+53,"Nov 14, 2023",CISPA researchers discover new security vulnerability in AMD SEV technology,/en/cachewarp
+54,"Nov 10, 2023",AI image generators as drivers of unsafe images? CISPA researcher develops filter to tackle this,/en/yitingqu-unsafeimages
+55,"Nov 7, 2023","""All my life I've concerned myself with transformation"": Five questions for Dr. h. c. Thomas Sattelberger",/en/sattelberger
+56,"Nov 6, 2023",CISPA in Paris: Kick-off for cooperation with French research center Inria,/en/cispa-inria-workshop-paris2023
+57,"Oct 30, 2023",Dr. Eduard Martin Prize for Jana Hofmann,/en/eduard-martin-prize
+58,"Oct 23, 2023",It's the passing on that matters: Two Busy Beaver Awards for CISPA lecturers,/en/news-and-events/news-archive/articles/2023/10_23_busy_beaver_krombholz_zeller
+59,"Oct 19, 2023",CISPA researcher aims to improve automated analysis of protocols,/en/hash
+60,"Oct 18, 2023",„Deceptive Security“: CISPA launches its first scrollytelling on security software,/en/scrollytelling
+61,"Oct 13, 2023",Our new Faculty: JavaScript analysis expert Aurore Fass ,/en/newfaculty_aurorefass
+62,"Oct 12, 2023",First EIC grant for CISPA incubator startup,/en/eic-lubis
+63,"Oct 9, 2023",270 million euros a year: IHK study underlines CISPA's importance for regional economy,/en/ihk-study
+64,"Oct 6, 2023",CISPA researcher conducts a self-experiment: On the difficulties of performing authentication ceremonies,/en/fassl_authenticationceremonies
+65,"Sep 29, 2023",First year anniversary: ELSA gathers for first General Assembly Meeting,/en/elsaGAM2023
+66,"Sep 27, 2023",Understanding science: Conference marathon in California,/en/usenix-2023
+67,"Sep 22, 2023",Mobile communications security with Dr. Adrian Dabrowski,/podcast-mobile-communications-security
+68,"Sep 21, 2023",Focus on cybersecurity: Sustainable investments for a secure future,/en/interview-vc-fonds
+69,"Sep 20, 2023",Experiencing science: A review of the event „CISPA❤️IGB“,/en/CISPAlovesIGBreportage
+70,"Sep 18, 2023","Research, Change and Vision: 5,000 visitors attend ""CISPA❤️IGB""",/en/EventCISPAlovesIGB
+71,"Sep 15, 2023",CISPA Venture Capital Fonds is launched: First startups pitch to jury,/en/vcfonds-pitchday
+72,"Sep 8, 2023",CISPA researcher develops technique to safeguard against deepfakes ,/en/zhengli-unganable
+73,"Sep 5, 2023",Artificial neural networks can be more efficient: CISPA researcher Dr. Rebekka Burkholz receives ERC Starting Grant,/en/erc-burkholz
+74,"Sep 5, 2023",Modern cryptography for the networks of the future: CISPA researcher Julian Loss receives ERC Starting Grant,/en/erc-loss
+75,"Aug 30, 2023",Rational Intelligence Lab: CISPA faculty publishes research group manifesto,/en/RationalIntelligenceManifesto
+76,"Aug 29, 2023",How does cybersecurity relate to psychology? An Interview on CySec4Psych with Dr. Rudolf Siegel,/en/cysec4psych-interview
+77,"Aug 23, 2023",A new standard? CISPA researchers test utility of web archives for live analyses of web security,/en/hantkeinternetarchive
+78,"Aug 21, 2023","""CISPA❤️IGB"" on September 16, 2023: Event program now online",/en/news-and-events/news-archive/articles/2023/08_21_cispasanktingbert-programm
+79,"Aug 18, 2023",Onboarding at CISPA: How it works,/en/onboarding-at-cispa
+80,"Aug 16, 2023",Successful cooperation between CISPA researchers and IT company sequire technology,/en/cooperation-cispa-sequire
+81,"Aug 14, 2023","""CISPA❤️St. Ingbert“ beckons visitors to Alte Schmelz on September 16",/en/loves-st-ingbert
+82,"Aug 9, 2023",Mapping mobile communications security,/mobile-communications-security
+83,"Aug 6, 2023",E-mail security with Dr. Ben Stock,/en/tldrpodcast-stock
+84,"Aug 4, 2023",CISPA researchers present 30 papers at 32nd USENIX Security Symposium,/en/usenix23
+85,"Aug 1, 2023",Collide+Power: New Side-Channel Attack Affects All CPUs,/en/collideandpower
+86,"Jul 31, 2023",IT-Security Know-How for Everyone,/en/zine5_scienceoutreach
+87,"Jul 27, 2023","“Whenever there’s a paradigm shift, there are security issues”: Examining Satellite Security",/en/satellite-security
+88,"Jul 24, 2023",“You have to keep your ultimate goal in mind”: Interview with Professor Dr. Andreas Zeller,/en/zeller
+89,"Jul 21, 2023",CISPA researchers present eight papers at ICML,/en/ICML
